@@ -1,4 +1,3 @@
-// src/App.js
 import React, { useState } from 'react';
 import EmojiSearch from './components/EmojiSearch';
 import EmojiList from './components/EmojiList';
